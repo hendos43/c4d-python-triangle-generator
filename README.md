@@ -3,7 +3,7 @@ Specify 3 angles, draw a triangle polygon in C4D using a python generator with a
 
 ## Instructions:
 - Make a python generator object in C4D
-- load this file
+- load this file (.py)
 - change angles as appropriate at the top of this script
 - enjoy your triangular polygon
 
